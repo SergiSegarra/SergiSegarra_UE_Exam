@@ -876,3 +876,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.30-10.22.23:362][768]AssetCheck: New page: Asset Save: multiple assets
 [2020.03.30-10.22.23:362][768]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.03.30-10.22.23:362][768]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.03.30-10.29.51:476][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.03.30-10.29.51:647][224]LogSavePackage: Moving '../../../../../../Uni/3er Curs/2n trimestre/Motors de Joc/SergiSegarra_Examen/SergiSegarra_UE_Exam/SergiSegarra_Exam/Saved/ThirdPersonExampleMap3A5664A14B146CDE76445EB61B8A1CA4.tmp' to '../../../../../../Uni/3er Curs/2n trimestre/Motors de Joc/SergiSegarra_Examen/SergiSegarra_UE_Exam/SergiSegarra_Exam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.03.30-10.29.51:783][224]LogSavePackage: Moving '../../../../../../Uni/3er Curs/2n trimestre/Motors de Joc/SergiSegarra_Examen/SergiSegarra_UE_Exam/SergiSegarra_Exam/Saved/ThirdPersonExampleMap_BuiltData5FA2A90F49C945F0084BC7884715BE31.tmp' to '../../../../../../Uni/3er Curs/2n trimestre/Motors de Joc/SergiSegarra_Examen/SergiSegarra_UE_Exam/SergiSegarra_Exam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.03.30-10.29.51:799][224]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.30-10.29.51:799][224]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.03.30-10.29.51:799][224]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
