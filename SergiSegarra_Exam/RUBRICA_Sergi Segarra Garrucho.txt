@@ -1,0 +1,15 @@
+Se han realizado los siguientes apartados:
+- 2 nuevos inputs llamados Crouch (activado mediante la tecla C) y Dance (activado mediante la tecla X)
+- 3 tipos de triggers incluyendo:
+	- Item recolectable: representado como 3 cubos blancos a la izquierda del player
+	- Zona de muerte: Visible en el editor y invisible en el juego, se encuentra a la derecha del player
+	- Lanzamiento de secuencia: zona invisible con texto flotante justo enfrente del player que se activa
+	al tocar el collider que tiene. Se reproduce solo una vez.
+- 2 animaciones de HUD:
+	- Animación de introducción para el contador de monedas
+	- Texto de muestra al activar la secuencia
+- Creación con 3 elementos: Cantidad de items recogidos, Pantalla en rojo de impacto
+- 3 estados de animación nuevos: Muerte, bailar y agachado
+- Secuencia con 4 elementos: Pincha cámara nueva, bloquea controles del player, mueve un objeto de la escena
+y  lanza un evento del HUD.
+- Terreno con base jugable, vegetación pero sin haber podido aplicar correctamente la vegetación.
